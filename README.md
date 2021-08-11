@@ -15,3 +15,7 @@
 - [x] [第 10 章 并行编程基础](assignment_ch10/main.md)
 - [x] [第 11 章 多核处理结构](assignment_ch11/main.md)
 - [x] [第 12 章 计算机系统评价和性能分析](assignment_ch12/main.md)
+
+
+## Note
+仅供学习参考，不保证正确性。请勿用于不良用途。
